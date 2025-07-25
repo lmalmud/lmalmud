@@ -21,19 +21,6 @@ I'm an undergraduate at Johns Hopkins University triple-majoring in Applied Math
 
 ---
 
-## Ongoing Projects
-
-**Limit-Order-Book Market-Making Simulator**  
-Simulates Amazon LOBSTER data with a Level-1 matching engine, implements Avellaneda–Stoikov quoting model, and is evolving into a reinforcement learning agent.
-
-**Factor-Driven Portfolio Risk Explorer**  
-Uses PostgreSQL, R, and Docker to enable rolling multi-factor model analysis and macroeconomic stress testing.
-
-**Well-Conditioned Zipper Algorithm Implementation**  
-Researching numerical conditioning and error bounds for conformal mappings; implemented in Python and MATLAB.
-
----
-
 ## Technical Toolbox
 
 **Languages**  
@@ -41,9 +28,6 @@ Python · C++ · R · Java · MATLAB · HTML · CSS · JavaScript · LaTeX
 
 **Tools**  
 PostgreSQL · Docker · Bloomberg · Dask · PySpark · Excel · Matplotlib · NumPy · Pandas
-
-**Spoken Languages**  
-English · French (conversational)
 
 ---
 
