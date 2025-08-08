@@ -14,7 +14,7 @@
 
 I'm an undergraduate at Johns Hopkins University triple-majoring in Applied Mathematics & Statistics, Computer Science, and Mathematics, with a minor in Financial Economics. I build things that live at the intersection of math, markets, and machines.
 
-- Dean’s List | GPA: 3.94
+- Dean’s List | GPA: 3.95
 - Teaching Assistant & Peer Instructor for Calculus III
 - Economics “Reality Roundtable” Scholar
 - Gold President’s Volunteer Service Award
